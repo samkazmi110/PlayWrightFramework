@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlayWrightFramework", "PlayWrightFramework\PlayWrightFramework.csproj", "{3ADE98E0-FCBE-40EB-B8AB-8C3F6508C49B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApplicationTesting", "ApplicationTesting\ApplicationTesting.csproj", "{DCBB516B-D0FD-45BE-8939-961EF45E2906}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3ADE98E0-FCBE-40EB-B8AB-8C3F6508C49B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3ADE98E0-FCBE-40EB-B8AB-8C3F6508C49B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3ADE98E0-FCBE-40EB-B8AB-8C3F6508C49B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3ADE98E0-FCBE-40EB-B8AB-8C3F6508C49B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DCBB516B-D0FD-45BE-8939-961EF45E2906}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCBB516B-D0FD-45BE-8939-961EF45E2906}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCBB516B-D0FD-45BE-8939-961EF45E2906}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCBB516B-D0FD-45BE-8939-961EF45E2906}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3CA9EAFA-1C98-4ADF-B292-EA3BE97370D3}
+	EndGlobalSection
+EndGlobal
